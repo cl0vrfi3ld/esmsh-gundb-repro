@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "std-fmt/": "https://deno.land/std@0.186.0/fmt/",
+    "gun/": "https://esm.sh/v120/*gun@0.2020.1239/",
+    "gun": "https://esm.sh/v120/*gun@0.2020.1239"
+  },
+  "scopes": {
+    "https://esm.sh/v120/": {
+      "ws": "https://esm.sh/v120/ws@7.5.9"
+    }
+  }
+}
