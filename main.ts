@@ -1,7 +1,7 @@
-// our imports
 import { green } from "std-fmt/colors.ts";
-//import the db
+// import the db
 import Gun from "gun";
+// import sea to enable encryption utilities and the user api (not demonstrated, but is important nonetheless)
 import "gun/sea";
 
 // setup db
